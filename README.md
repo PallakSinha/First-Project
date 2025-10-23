@@ -1,4 +1,4 @@
-Dataset Name - Netflix Movies & TV Shows
+Netflix movies & tv shows
 1) Insert Data into python console
 2) Get information about the data such as rows, columns, headings, null values, data types, etc
 3) Null values treatment- instead of dropping the row or column with null values, I added "unknown" to those values
